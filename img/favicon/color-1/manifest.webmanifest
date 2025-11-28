@@ -1,0 +1,23 @@
+{
+  "name": "Prince Angelo Marianito Portfolio",
+  "short_name": "PAM Portfolio",
+  "description": "Personal Portfolio of Prince Angelo Marianito - Web Developer, Software Engineer, and UI/UX Designer",
+  "start_url": "/app/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#9854c5",
+  "icons": [
+    {
+      "src": "/app/img/favicon/color-1/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/app/img/favicon/color-1/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
